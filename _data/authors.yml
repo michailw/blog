@@ -1,0 +1,29 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:  Michał Wójtowicz
+  email: poczta@mwojtowicz.it
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Programuję od 2010 roku. Lubię chmury oraz zagadnienia devops.
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/logo/logo@0,75x.png
+    # srcset is optional, but can be used to provide higher res versions for retina displays
+    srcset:
+      1x:            /assets/logo/logo@0,75x.png
+      2x:            /assets/logo/logo.png
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    twitter:         michail_w
+    github:          michailw
+    linkedin:        wojtowiczmichal
+    # email:           <mail@domain.tld>
+    # facebook:        <username>
