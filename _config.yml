@@ -1,8 +1,8 @@
 # Config
 # ========================================================================================
 
-url: https://michailw.github.io
-baseurl: '/blog'
+url: https://www.mwojtowicz.it
+baseurl: ''
 lang:  pl
 title: MWojtowicz.it
 
