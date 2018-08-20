@@ -118,3 +118,7 @@ $font-family: {{ font }};
     h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .heading { font-family: $font-family-heading; }
   }
 {% endunless %}
+
+.content .img img {
+  object-fit: contain;
+}
